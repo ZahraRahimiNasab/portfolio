@@ -7,3 +7,9 @@ I am a Ph.D. graduate frome Department of Computer Science and Engineering at Na
 - Nanyang Technological University, Singapore, Ph.D in in Computer Science and Engineering, 2018 -- 2023
 - Shahid Beheshti University, Iran,  M.E. in Software Computer Engineering, 2014 -- 2017
 - Shahid Beheshti University, Iran,  B.S. in  Computer Science,  2010 -- 2014
+
+# Reserach interest
+
+-Out-of-distribution detection and reasoning
+-Generative models
+-Disentangling latent space of VAE
